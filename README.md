@@ -46,8 +46,6 @@ user can login.Both User and Admin has the different Section. In this app i take
   spring-boot-devtools<br/>
   mysql-connector-java<br/>
   spring-boot-starter-data-jpa<br/>
-## Apk: Drive link:
-Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
 
 ## App: Demo Video:
 https://drive.google.com/file/d/1L0xzySLyKgC7avkYPMRCX3Avq3jhD3er/view?usp=sharing
