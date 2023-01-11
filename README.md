@@ -50,7 +50,7 @@ user can login.Both User and Admin has the different Section. In this app i take
 Click [here](https://drive.google.com/file/d/13gUk3mdvQMgqZD7eKQJUrPCX2d53MktV/view?usp=sharing) to Download the apk.
 
 ## App: Demo Video:
-https://user-images.githubusercontent.com/54070739/169024770-2289081e-b441-4346-9f5f-f79945e17687.mp4
+https://drive.google.com/file/d/1L0xzySLyKgC7avkYPMRCX3Avq3jhD3er/view?usp=sharing
 
 ## :camera_flash: Screenshots:
 <!-- You can add more screenshots here if you like -->
