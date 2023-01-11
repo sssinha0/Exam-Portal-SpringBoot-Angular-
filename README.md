@@ -53,13 +53,13 @@ https://drive.google.com/file/d/1L0xzySLyKgC7avkYPMRCX3Avq3jhD3er/view?usp=shari
 ## :camera_flash: Screenshots:
 <!-- You can add more screenshots here if you like -->
 
-<img src="/Screenshot (49).png" width="400">
-<img src="/Screenshot (50).png" width="400"> 
-<img src="/Screenshot (51).png" width="400">
-<img src="/Screenshot (52).png" width="400">
-<img src="/Screenshot (53).png" width="400"> 
-<img src="/Screenshot (54).png" width="400">
-<img src="/Screenshot (55).png" width="400">
+<img src="/Screenshot (49).png" width="900">
+<img src="/Screenshot (50).png" width="900"> 
+<img src="/Screenshot (51).png" width="900">
+<img src="/Screenshot (52).png" width="900">
+<img src="/Screenshot (53).png" width="900"> 
+<img src="/Screenshot (54).png" width="900">
+<img src="/Screenshot (55).png" width="900">
 
 ## Special thanks:
   Special thanks to [Durgesh Tiwari]() for uploading such a beautiful content in youtube and motivate to do project.
